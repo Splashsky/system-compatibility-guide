@@ -8,3 +8,5 @@ First of all, there's a couple basic rules that need to be set down for compatib
 * **It's a matter of responsibility to replace life safety devices**. Life safety devices are important. Fire detectors save lives and entire communities. You can't take a risk on a life safety device not being compatible; make sure to replace them when and where necessary.
 
 And without further ado, we can jump right into the guide!
+
+[Go back home](https://splashsky.github.io/system-compatibility-guide/) [How systems communicate](https://splashsky.github.io/system-compatibility-guide/system-communication)
