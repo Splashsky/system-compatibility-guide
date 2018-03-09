@@ -1,6 +1,6 @@
 ### How about the way systems communicate?
 
-Before the modern age, in a time long gone, most all systems used a landline - much like old home phones - to communicate with the monitoring centers. These were dangerous; they could be cut or destroyed or the grid could go down and eliminate your connection. With the rise of cellular networks, security companies figured out they could use cellular signals as a backup and even a primary means of communication that was even tornado resistant.
+Before the modern age, in a time long gone, most all systems used a landline - much like old home phones - to communicate with the monitoring centers. These were dangerous; they could be cut or destroyed or the grid could go down and eliminate your connection. With the rise of cellular networks, security companies figured out they could use cellular signals as a backup and even a primary means of communication.
 
 In addition, a lot of companies such as AT&T's Uverse and Spectrum have switched to VoIP, which tends to be incompatible with older systems. As such, we try to upgrade all older systems still using landlines (or sometimes not) to use cellular service. From Honeywell we have 6 options for GSM (AT&T's network) and one option for CDMA (Verizon's network). DSC only provides GSM units, but have support for Internet connections as well.
 
