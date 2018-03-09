@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## What is this?
 
-You can use the [editor on GitHub](https://github.com/Splashsky/system-compatibility-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This small webpage is the result of months of research and experience working with security systems that [ADT](https://adt.com) supports, as well as knowledge gleaned from internal resources. This is to act more as a primer or a guide than an official rulebook.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Basic Information
 
-### Markdown
+First of all, there's a couple basic rules that need to be set down for compatibility between ADT-supported systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **Not all manufacturers are the same**. To put it simply, when switching from one manufacturer (e.g. GE/ITI) to another (e.g. DSC/Ademco) you may have discrepancies that can't initially be accounted for. Most of the guide should still be applicable!
+* **RF (wireless) signals aren't made the same**. This is to say that even with an RF to RF Flex Translator you may not be able to switch one wireless system to another. See rule below.
+* **Contact/motion detector technology hasn't changed in over a decade**. Really! The technology behind contacts and motion detectors in personal security systems have remained the same for many years. Rest assured that most contacts and detectors will be compatible.
+* **It's a matter of responsibility to replace life safety devices**. Life safety devices are important. Fire detectors save lives and entire communities. You can't take a risk on a life safety device not being compatible; make sure to replace them when and where necessary.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Splashsky/system-compatibility-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And without further ado, we can jump right into the guide!
