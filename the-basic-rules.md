@@ -9,4 +9,4 @@ First of all, there's a couple basic rules that need to be set down for compatib
 
 And without further ado, we can jump right into the guide!
 
-[Go back home](https://splashsky.github.io/system-compatibility-guide/) [How systems communicate](https://splashsky.github.io/system-compatibility-guide/system-communication)
+[Go back home](https://splashsky.github.io/system-compatibility-guide/) - [How systems communicate](https://splashsky.github.io/system-compatibility-guide/system-communication)
