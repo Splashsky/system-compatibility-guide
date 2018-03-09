@@ -34,3 +34,21 @@ Unfortunately, Flex translators and even the aforementioned adapter don't work i
 The only listed RF to RF Flex translator is the RE524X. It's a unit that's adaptable for all situations where you need to convert wireless signals, such as DSC's 433MHz to Honeywell's 5800-series.
 
 For HW to RF conversions, you have the tried-and-true Honeywell 5800C2W, which - as it's part number implies - converts up to 9 HW devices to use 5800-series signals. Alternatively, you have the more adaptable Ecolink WST-802, which converts up to 8 HW devices to variable wireless signals, including 5800-series and 433MHz.
+
+### How about the way systems communicate?
+
+Before the modern age, in a time long gone, most all systems used a landline - much like old home phones - to communicate with the monitoring centers. These were dangerous; they could be cut or destroyed or the grid could go down and eliminate your connection. With the rise of cellular networks, security companies figured out they could use cellular signals as a backup and even a primary means of communication.
+
+In addition, a lot of companies such as AT&T's Uverse and Spectrum have switched to VoIP, which tends to be incompatible with older systems. As such, we try to upgrade all older systems still using landlines (or sometimes not) to use cellular service. From Honeywell we have 6 options for GSM (AT&T's network) and one option for CDMA (Verizon's network). DSC only provides GSM units, but have support for Internet connections as well.
+
+All but the newest system still support landlines for communication. Almost every major system supports cellular signal. Only the newest systems, or systems outfitted with DSC cellular units, support Internet as an option.
+
+A lot of the time, we see people misidentify the cellular device's transformer for the system's transformer, so make sure you make this distinction while troubleshooting.
+
+### Okay, so what about BV (BroadView) systems?
+
+BroadView was a company acquired by ADT in 2010, and since then they've supported the old BroadView systems (typically the BV3000 or BV4000) and provided warranty on them. As a preference, we prefer to upgrade these directly to the SafeWatch Pro 3000 (P3K) system, select the RF configuration and include an HW to RF Flex.
+
+The BV4000 is compatible with cellular units and should always be upgraded to use them when you have the chance. Anything older than a BV4000 such as the BV1000 to the BV3000 should be upgraded to a P3K system without question.
+
+When upgrading these systems to wireless, **always** replace the fire and carbon detectors.
