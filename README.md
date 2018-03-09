@@ -12,4 +12,5 @@ Here's links to all our guides!
 * [How RF (wireless) works](https://splashsky.github.io/system-compatibility-guide/how-does-rf-work)
 * [What are Flex translators](https://splashsky.github.io/system-compatibility-guide/what-are-flex-translators)
 * [BroadView guide](https://splashsky.github.io/system-compatibility-guide/broadview-guide)
+* [Safewatch guide](https://splashsky.github.io/system-compatibility-guide/safewatch-guide)
 * ... with more coming!
